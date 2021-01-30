@@ -12,7 +12,7 @@ public class backJoon_4949 {
 		String result = "";
 		
 		while(true) {
-			//¹®ÀÚ¿­ÀÇ ±ÕÇüÀÌ ¸Â¾Æ¾ß ÇÑ´Ù.
+			//ë¬¸ìì—´ì˜ ê· í˜•ì´ ë§ì•„ì•¼ í•œë‹¤.
 			String s = scanner.nextLine();
 			
 			if(s.equals(".")) {
